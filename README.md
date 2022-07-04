@@ -134,6 +134,8 @@
 
 2019.11.02：修复斗鱼预览地址获取的方法；新增未开播房间的判断。
 
+撒肯定就拉丝机[测试](https://github.com/lisanshui007/real-url/blob/master/danmu/danmaku/huajiao.py)
+
 ## 鸣谢
 
 感谢 [JetBrains](https://www.jetbrains.com/?from=real-url) 提供的 free JetBrains Open Source license
